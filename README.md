@@ -5,34 +5,38 @@
   <img src="https://media.tenor.com/3bNpJ9JKnz8AAAAC/coding-anime.gif" width="200" alt="Anime girl coding">
 </p>
 
----
-
 ## ✨ Sobre Mim
 
 👩‍💻 Me chamo **Jamili Gabriela** e sou Analista de Desenvolvimento de Sistemas.  
 💡 Tenho paixão por transformar ideias em soluções digitais práticas e criativas.  
 📚 Sempre aprendendo novas tecnologias para entregar projetos com qualidade e estilo.
 
----
 
 ## 💖 Tecnologias que uso:
 
-### 🎨 Front-end:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-
-### ⚙️ Back-end:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
----
+<table>
+  <tr>
+    <td align="center"><strong>🎨 Front-end</strong></td>
+    <td align="center"><strong>⚙️ Back-end</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -41,26 +45,50 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamilinha29&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
 ## 🔗 Redes & Ferramentas
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jamilinha29-181717?logo=github&style=for-the-badge)](https://github.com/Jamilinha29)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jamili%20Gabriela-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jamili-gabriela-a296b62b7/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@jamili.gabriela-f06292?logo=instagram&style=for-the-badge)](https://www.instagram.com/)  
-[![Discord](https://img.shields.io/badge/Discord-Jamili%230123-7289da?logo=discord&style=for-the-badge)](https://discord.com/users/)  
-[![Figma](https://img.shields.io/badge/Figma-Designs-f24e1e?logo=figma&style=for-the-badge)](https://figma.com/)  
-[![Trello](https://img.shields.io/badge/Trello-Organização-0079BF?logo=trello&style=for-the-badge)](https://trello.com/)
-
----
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Jamilinha29">
+        <img src="https://img.shields.io/badge/GitHub-Jamilinha29-181717?logo=github&style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jamili-gabriela-a296b62b7/">
+        <img src="https://img.shields.io/badge/LinkedIn-Jamili%20Gabriela-blue?logo=linkedin&style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/jamiligabriela10">
+        <img src="https://img.shields.io/badge/Instagram-@jamiligabriela10-f06292?logo=instagram&style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/users/">
+        <img src="https://img.shields.io/badge/Discord-Jamili%230123-7289da?logo=discord&style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://figma.com/">
+        <img src="https://img.shields.io/badge/Figma-Designs-f24e1e?logo=figma&style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://trello.com/">
+        <img src="https://img.shields.io/badge/Trello-Organização-0079BF?logo=trello&style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🖼️ Estilo pessoal
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jamilinha29/Jamilinha29/main/imagem-do-perfil.png" width="200" alt="Jamili com teclado (imagem pessoal)">
 </p>
-
----
 
 ## 💌 Mensagem final
 
