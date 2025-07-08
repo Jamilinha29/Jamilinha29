@@ -87,7 +87,7 @@
 ## 🖼️ Estilo pessoal
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jamilinha29/Jamilinha29/main/imagem-do-perfil.png" width="200" alt="Jamili com teclado (imagem pessoal)">
+  <img src="https://media.tenor.com/x2W7TxzVKAYAAAAC/rosalyne-lohefalter.gif" width="200" alt="Jamili com teclado (imagem pessoal)">
 </p>
 
 ## 💌 Mensagem final
