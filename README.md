@@ -90,11 +90,3 @@
 </div>
 
 
-## 💌 Mensagem final
-
-> 🌟 *"Não existe linha de código sem propósito quando há paixão pelo que se constrói."*  
-> 💻 *Vamos codar com empatia, criatividade e um pouco de magia!*
-
-<p align="center">
-  <img src="https://media.tenor.com/XiYuDJe2qIoAAAAC/sailor-moon.gif" width="160" alt="anime girl gif">
-</p>
