@@ -47,42 +47,27 @@
 
 ## 🔗 Redes & Ferramentas
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Jamilinha29">
-        <img src="https://img.shields.io/badge/GitHub-Jamilinha29-181717?logo=github&style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/jamili-gabriela-a296b62b7/">
-        <img src="https://img.shields.io/badge/LinkedIn-Jamili%20Gabriela-blue?logo=linkedin&style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/jamiligabriela10">
-        <img src="https://img.shields.io/badge/Instagram-@jamiligabriela10-f06292?logo=instagram&style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://discord.com/users/">
-        <img src="https://img.shields.io/badge/Discord-Jamili%230123-7289da?logo=discord&style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://figma.com/">
-        <img src="https://img.shields.io/badge/Figma-Designs-f24e1e?logo=figma&style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://trello.com/">
-        <img src="https://img.shields.io/badge/Trello-Organização-0079BF?logo=trello&style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/Jamilinha29">
+    <img src="https://img.shields.io/badge/GitHub-Jamilinha29-181717?logo=github&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jamili-gabriela-a296b62b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jamili%20Gabriela-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jamiligabriela10">
+    <img src="https://img.shields.io/badge/Instagram-@jamiligabriela10-f06292?logo=instagram&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-Jamili%230123-7289da?logo=discord&style=for-the-badge" alt="Discord" />
+  </a>
+  <a href="https://figma.com/">
+    <img src="https://img.shields.io/badge/Figma-Designs-f24e1e?logo=figma&style=for-the-badge" alt="Figma" />
+  </a>
+  <a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-Organização-0079BF?logo=trello&style=for-the-badge" alt="Trello" />
+  </a>
+</div>
+
 -
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://media.tenor.com/3bNpJ9JKnz8AAAAC/coding-anime.gif" width="200" alt="Anime girl coding">
