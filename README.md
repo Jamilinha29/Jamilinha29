@@ -83,11 +83,7 @@
     </td>
   </tr>
 </table>
-
-## 🖼️ Estilo pessoal
-
-## 🖼️ Estilo pessoal
-
+-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://media.tenor.com/3bNpJ9JKnz8AAAAC/coding-anime.gif" width="200" alt="Anime girl coding">
   <img src="https://media.tenor.com/XiYuDJe2qIoAAAAC/sailor-moon.gif" width="200" alt="Anime girl Sailor Moon">
