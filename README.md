@@ -57,15 +57,6 @@
   <a href="https://www.instagram.com/jamiligabriela10">
     <img src="https://img.shields.io/badge/Instagram-@jamiligabriela10-f06292?logo=instagram&style=for-the-badge" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-Jamili%230123-7289da?logo=discord&style=for-the-badge" alt="Discord" />
-  </a>
-  <a href="https://figma.com/">
-    <img src="https://img.shields.io/badge/Figma-Designs-f24e1e?logo=figma&style=for-the-badge" alt="Figma" />
-  </a>
-  <a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-Organização-0079BF?logo=trello&style=for-the-badge" alt="Trello" />
-  </a>
 </div>
 
 -
